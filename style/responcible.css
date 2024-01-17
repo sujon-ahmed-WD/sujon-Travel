@@ -1,0 +1,187 @@
+@media screen and ( max-width : 576px) {
+    body {
+        margin: 0px ;
+        width: 100vw;
+        padding: 20px 10px;
+        
+    }
+    nav {
+        flex-direction: column;
+        padding: 10px 0px;
+    }
+
+    nav ul {
+        gap: 10px;
+    }
+
+    .banner1 {
+        margin: 0px;
+        width: 100vw;
+        
+    }
+    .banner1 h1{
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    .banner1 p{
+        margin: 30px 0px;
+    }
+    .form-boutton{
+        flex-direction: column;
+        width: 75%;
+        
+        
+    }
+     .pos{
+        flex-direction: column;
+        width: 100vw;
+     }
+     .pos-img img{
+        width: 100vw;
+        height: 100%;
+     }
+     .a{
+        flex-direction: column;
+     }
+     .a img{
+        width: 100%;
+     }
+     .b{
+        flex-direction: column;
+     }
+     .b img{
+        width: 100%;
+     }
+     .c{
+        flex-direction: column;
+     }
+     .c img{
+        width: 100%;
+     }
+     .Section-3{
+        /* gap:20px; */
+     }
+     .section-3-part1 {
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+    }
+
+    .section-3-part1 p {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .section-3-part2 {
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+    }
+
+    .section-3-part3 {
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+        margin: 0px;
+    }
+
+    .section-3-part1-des {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .section-3-part2-box {
+        width: 100%;
+        padding: 0px;
+    }
+
+    .section-3-part2 {
+        gap: 20px;
+    }
+    .mothher{
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+    }
+    iframe{
+        width: 100%;
+    }
+    .vidoc-taxt{
+        text-align: center;
+        width: 100%;
+    }
+    .vidoc-taxt{
+        margin: 0px;
+        padding: 0px;
+    }
+    .Section-5 {
+        flex-direction: column;
+        margin: 0px;
+    }
+
+    .Newsletter-input {
+        margin: 0px;
+        width: 100%;
+        padding: 0px;
+    }
+
+    .Newsletter-input h1 {
+        margin-top: 10px;
+        width: 80vw;
+        font-size: 100%;
+    }
+
+    .Newsletter-input p {
+        width: 95%;
+        font-size: 100%;
+        width: 100%;
+
+    }
+
+    .Section-4-form {
+        padding: 10px;
+    }
+
+    .name {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .email {
+        margin: 0px;
+        width: 100%;
+    }
+
+    .form-button {
+        margin: 0px;
+        width: 100%;
+    }
+    .Newsletter img {
+        position: relative;
+        z-index: 1;
+        padding-top: 30px;
+        width: 100%;
+        margin: 0px;
+    }
+
+    .discount {
+        position: absolute;
+        z-index: 2;
+        width: 50%;
+        height: 30%;
+        left: 46%;
+        top: 56%;
+        transform: rotate(-19.628deg);
+    }
+    footer {
+        width: 100%;
+    }
+
+    
+}
